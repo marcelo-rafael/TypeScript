@@ -35,7 +35,7 @@ Veremos, na prática, casos de uso onde você deve ou não definir tipos nas sua
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/marcelo-rafael/back-end-com-node.js/
+$ git clone https://github.com/marcelo-rafael/typescript/
 ```
 
 1. Run `npm install` or `yarn install`.<br />
