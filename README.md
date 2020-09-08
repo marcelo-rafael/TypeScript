@@ -27,7 +27,7 @@ Veremos também que existem algumas peculiaridades na hora de rodar o seu códig
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/marcelo-rafael/back-end-com-node.js/
+$ git clone https://github.com/marcelo-rafael/typescript/
 ```
 
 1. Run `npm install` or `yarn install`.<br />
