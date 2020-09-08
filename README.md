@@ -14,6 +14,14 @@ Nessa aula vamos entender, na prática, o que são os arquivos de tipagem e como
 
 Veremos também que existem algumas peculiaridades na hora de rodar o seu código em ambiente de desenvolvimento, visto que o NodeJS não entende TypeScript nativamente. Para isso, será necessário que você transpile o código para JavaScript em tempo de execução. Esse e mais detalhes serão mostrados na aula.
 
+## Quando adicionar tipos<br />
+
+Nessa aula iremos entender melhor quando adicionar ou não adicionar tipagem e o porquê de em alguns casos não ser mostrado nenhum erro, mesmo quando não tipamos algo.
+
+Veremos, na prática, casos de uso onde você deve ou não definir tipos nas suas aplicações, como trabalhar com a mesma tipagem de dependências em arquivos separados além de te mostrar um leque de possibilidades nesse novo mundo do TypeScript.
+
+
+
 
 
 
