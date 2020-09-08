@@ -21,6 +21,11 @@ Nessa aula iremos entender melhor quando adicionar ou não adicionar tipagem e o
 Veremos, na prática, casos de uso onde você deve ou não definir tipos nas suas aplicações, como trabalhar com a mesma tipagem de dependências em arquivos separados além de te mostrar um leque de possibilidades nesse novo mundo do TypeScript.
 
 
+## Tipando objetos e vetores<br />
+
+Agora que aprendemos usar as tipagens das dependências que instalamos, vamos aprender a tipar nossas próprias constantes e com isso fazer com que o IntelliSense da IDE nos auxilie da mesma forma como auxilia nos tipos que baixamos através do @types.
+
+
 
 
 
